@@ -1,6 +1,8 @@
-# Hand-gesture-recognition using a CNN model on forearm HD-sEMG
+# Hand gesture recognition using a CNN model on forearm HD-sEMG
 Notebooks used to extract data from the SEEDS dataset, train a CNN model and exploit obtained model.
 To be used, SEEDS dataset should be downloaded and unziped in "SEEDS_dataset" folder.
+
+Take a look at Presentation.pdf for a quick presentation of the results.
 
 Dataset can be found at : https://osf.io/wa3qk/
 Paper about the dataset :
